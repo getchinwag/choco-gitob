@@ -1,0 +1,19 @@
+====================
+TERMS AND CONDITIONS
+====================
+
+Welcome to Gitob, created by Chinwag. Chinwag is a trading name of KC Dynamics Ltd, a company registered in England and Wales. By downloading, installing, or using this software tool or any other file created or downloaded by the software tool, you agree to be bound by the terms and conditions outlined below. If you do not agree to these terms, please do not use the software tool.
+
+License: Chinwag grants you a non-exclusive, non-transferable, limited license to use the software tool and any other file created or downloaded by the software tool for personal or commercial purposes. This license is subject to your compliance with these terms and conditions.
+
+Intellectual Property: The software tool and any other file created or downloaded by the software tool, including all related documentation, are protected by copyright laws and international treaties. All intellectual property rights belong to KC Dynamics Ltd. You are not allowed to copy, modify, distribute, or reverse engineer the software tool or any other file created or downloaded by the software tool in any way.
+
+Warranty: The software tool and any other file created or downloaded by the software tool are provided "as is" without warranty of any kind, either express or implied, including but not limited to the implied warranties of merchantability, fitness for a particular purpose, and non-infringement. KC Dynamics Ltd does not guarantee that the software tool or any other file created or downloaded by the software tool will meet your requirements or that they will be error-free.
+
+Liability: KC Dynamics Ltd will not be liable for any direct, indirect, incidental, special, or consequential damages arising from the use of the software tool or any other file created or downloaded by the software tool, or the inability to use them. This includes, but is not limited to, damages for loss of profits, business interruption, or data loss.
+
+Termination: This license agreement is effective until terminated. KC Dynamics Ltd may terminate this agreement at any time if you breach any of these terms and conditions. Upon termination, you must immediately stop using the software tool and any other file created or downloaded by the software tool, and delete all copies of them from your computer.
+
+Governing Law: This agreement shall be governed by and construed in accordance with the laws of England and Wales. Any disputes arising out of or in connection with this agreement shall be subject to the exclusive jurisdiction of the courts of England and Wales.
+
+By installing and using Gitob, you acknowledge that you have read these terms and conditions, understand them, and agree to be bound by them. If you do not agree to these terms, please do not use the software tool or any other file created or downloaded by the software tool.

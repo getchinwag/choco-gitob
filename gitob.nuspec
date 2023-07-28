@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Do not remove this test for UTF-8: if “Ω” doesn’t appear as greek uppercase omega letter enclosed in quotation marks, you should use an editor that supports UTF-8, not this one. -->
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>gitob</id>
+    <version>1.0.0</version>
+    <packageSourceUrl>https://github.com/getchinwag/choco-gitob</packageSourceUrl>
+    <owners>Chinwag</owners>
+    <title>Gitob</title>
+    <authors>The Gitob team</authors>
+    <projectUrl>https://gitob.getchinwag.com</projectUrl>
+    <iconUrl>https://gitob.getchinwag.com/static/favicons/apple-icon-144x144.png</iconUrl>
+    <copyright>Copyright © 2023 KC Dynamics Ltd. All rights reserved.</copyright>
+    <licenseUrl>https://gitob.getchinwag.com/api/utils/binary-installation-terms</licenseUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <docsUrl>https://gitob.getchinwag.com/installation</docsUrl>
+    <tags>gitob</tags>
+    <summary>Git hooks that make onboarding a breeze.</summary>
+    <description>Auto-deploy carefully crafted Git hooks that help your new software engineers feel welcome, and able to contribute faster.</description>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
